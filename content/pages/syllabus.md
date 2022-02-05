@@ -27,7 +27,36 @@ Grading
 
 There will be approximately 8 problem sets worth a total of 75% of the grade, which can and should be worked on together. A take-home exam will account for the remaining 25% of the grade. It should not be discussed with your classmates, and will be due on the last day of classes. The problem sets and exam will be graded by TA.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 8 Problem Sets | 75% |
-| Take-home Exam | 25%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8 Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
