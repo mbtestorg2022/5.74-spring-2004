@@ -7,6 +7,7 @@ description: This resource explains the Transformation of HeffLocal-HeffNormal (
   eff6 parameter model Heff Local-Heff Normal.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/48ca9fe01115ad8683e9a39b7bb33faa_18_lecnotes_rwf.pdf
 file_type: application/pdf
+parent_uid: b674992b-2c20-f098-062f-edbb6f201368
 resourcetype: Document
 title: 18_lecnotes_rwf.pdf
 uid: 48ca9fe0-1115-ad86-83e9-a39b7bb33faa
